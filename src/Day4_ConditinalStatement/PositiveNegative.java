@@ -1,4 +1,4 @@
-package Day4_ConditinalOperater;
+package Day4_ConditinalStatement;
 
 public class PositiveNegative {
     public static void main(String[] args) {
